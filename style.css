@@ -1,6 +1,6 @@
 body{background-color: bisque;
 }
-
+<p class="dotted">A dotted border.</p>
 p.dotted {border-style: dotted;}
 
 #titulo {
