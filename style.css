@@ -20,8 +20,3 @@ p.dotted {border-style: dotted;}
         font: size 25px;
         text-align:justify;
 }
-
-.center {
-    text-align: center;
-    border: 3px solid green;
-  }
