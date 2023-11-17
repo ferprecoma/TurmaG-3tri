@@ -1,5 +1,8 @@
 body{background-color: bisque;
 }
+
+p.dotted {border-style: dotted;}
+
 #titulo {
     font: size 100px;
     text-align: center;
