@@ -1,10 +1,6 @@
 body{background-color: bisque;
 }
 
-
-  }
-p.dotted {border-style: dotted;}
-
 #titulo {
     font: size 100px;
     text-align: center;
@@ -20,4 +16,22 @@ p.dotted {border-style: dotted;}
         color: black;
         font: size 25px;
         text-align:justify;
+}
+
+#imagem {
+  height: 150px;
+  width: 150px;
+  padding: 5px;
+  margin: 5px;
+  border: 10px double #30348C;
+  border-radius: 25px;
+}
+
+.foto {
+  width: 500px;
+  height: 300px;
+  margin: 10px;
+  padding: 3px; 
+  border: 0.5rem solid #BF9075;
+  border-radius: 24px;  
 }
