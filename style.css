@@ -18,7 +18,7 @@ body{background-color: bisque;
         text-align:justify;
 }
 
-#esponja {
+.esponja {
   height: 150px;
   width: 150px;
   padding: 5px;
