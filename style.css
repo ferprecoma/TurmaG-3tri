@@ -18,7 +18,7 @@ body{background-color: bisque;
         text-align:justify;
 }
 
-#fermentação1 {
+#fermentação {
   height: 150px;
   width: 150px;
   padding: 5px;
@@ -27,7 +27,7 @@ body{background-color: bisque;
   border-radius: 25px;
 }
 
-.fermentação1 {
+.esponja {
   width: 500px;
   height: 300px;
   margin: 10px;
