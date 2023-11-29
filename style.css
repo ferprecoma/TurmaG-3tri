@@ -7,6 +7,14 @@ body{background-color: bisque;
     color:green;
 }
 
+header {
+  padding: 20px;
+  background-color: #30348C;
+  border-bottom: 4px solid wheat;
+  font-size: 40px;
+  color: blue;
+}
+
 .texto{
     color: red;
     font: size 25px;
